@@ -1,0 +1,20 @@
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe.config
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.AssemblyReference.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form1.resources
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Properties.Resources.resources
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.GenerateResource.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\obj\Debug\Evaluacion.exe
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\Examen 1er corte\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe.config
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.AssemblyReference.cache
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form1.resources
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Properties.Resources.resources
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.GenerateResource.cache
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\obj\Debug\Evaluacion.exe
+C:\Users\Mario\Downloads\Evaluacion\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb
